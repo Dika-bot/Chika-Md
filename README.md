@@ -68,21 +68,21 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RIY'
-global.botname = 'Chika-Md'
-global.footer = 'RIY'
+global.owner = ['6285609438835','6285609438835','6285609438835']
+global.premium = ['6285609438835']
+global.ownernomer = '6285609438835'
+global.ownername = 'dika-owner'
+global.botname = 'dika-bot'
+global.footer = 'dika-owner'
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/riychdwayne'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
 global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
+global.email = 'ujicobagame18@gmail.com'
 global.region = 'indonesia'
-global.packname = '© Chika-Md'
-global.author = 'RIY'
-global.sessionName = 'chika'
+global.packname = '© dika-bot'
+global.author = 'dika-owner'
+global.sessionName = 'dika'
 ```
 
 ## ```HOW TO DEPLOY```
@@ -96,8 +96,8 @@ global.sessionName = 'chika'
 </p>
 
 ## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
+- [Dana](https://wa.me/message/EETI2AO4HZK5N1?text=Bang+mau+donasi)
+- [Gopay](https://wa.me/message/EETI2AO4HZK5N1?text=Bang+mau+donasi)
 
 # Official Group
 - [Group 1](https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw)
